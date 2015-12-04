@@ -30,7 +30,7 @@
       {
          "description": "Git source URI for application",
          "name": "GIT_URI",
-         "value": "https://github.com/gshipley/openshift3mlbparks.git"
+         "value": "https://github.com/nsabine/openshift3mlbparks.git"
       },
       {
          "description": "Git branch/tag reference",
@@ -127,7 +127,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "openshift",
-                     "name": "jboss-eap6-openshift:${EAP_RELEASE}"
+                     "name": "jboss-eap64-openshift:${EAP_RELEASE}"
                   }
                }
             },
