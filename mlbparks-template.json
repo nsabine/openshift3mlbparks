@@ -127,7 +127,7 @@
                   "from": {
                      "kind": "ImageStreamTag",
                      "namespace": "openshift",
-                     "name": "jboss-eap64-openshift:${EAP_RELEASE}"
+                     "name": "jboss-eap64-openshift:latest"
                   }
                }
             },
